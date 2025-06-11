@@ -63,6 +63,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.oothp:AndroidPdfViewer:master'
+    implementation 'com.github.oothp:AndroidPdfViewer:master-SNAPSHOT'
 }
 
